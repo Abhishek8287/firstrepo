@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    
+}
+body{
+    background-color:#393E46;
+}
+h1{
+    font-size: 100px;
+    font-weight: bolder ;
+}
+p{
+    font-size: 20px;
+}
